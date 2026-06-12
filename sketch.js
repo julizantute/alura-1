@@ -163,7 +163,7 @@ function drawBody() {
 }
 
 function updateEyes() {
-    // Apenas atualiza a posição visual baseada na função draw que redesenha os olhos
+    // Apenas atualiza a posição visual baseado na função draw que redesenha os olhos
     // A lógica de seguir o mouse está em drawEye()
 }
 
